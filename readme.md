@@ -61,7 +61,8 @@ I'm a passionate software developer with strong problem-solving skills and a lov
 
 ## 📈 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amank736836&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amank736836&layout=compact&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amank736836&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amank736836&layout=compact&theme=radical)
 
 ---
 
