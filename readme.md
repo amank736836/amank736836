@@ -96,8 +96,8 @@ I'm a passionate software developer with hands-on experience in building scalabl
 
 <div align="center">
 
-[![Aman's GitHub Stats](https://github-readme-stats-amank736836.vercel.app/api?username=amank736836&cardType=github&show_icons=true&theme=dark&count_private=true)](https://github.com/amank736836)
-[![Top Langs](https://github-readme-stats-amank736836.vercel.app/api/top-langs/?username=amank736836&layout=compact&theme=dark&count_private=true)](https://github.com/amank736836)
+[![Aman's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amank736836?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<!-- [![Top Langs](https://github-readme-stats-amank736836.vercel.app/api/top-langs/?username=amank736836&layout=compact&theme=dark&count_private=true)](https://github.com/amank736836) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=amank736836&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 </div>
