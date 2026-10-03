@@ -47,26 +47,25 @@ I'm a passionate software developer with hands-on experience in building scalabl
 - **Secure Auth**: JWT & bcrypt password hashing.
 - Integrated **Cloudinary** for file sharing and **Chart.js** for analytics.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-chatchamp.vercel.app-blue?style=for-the-badge)](https://chatchamp.vercel.app) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/amank736836/MERN-ChatApp)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-chatchamp.vercel.app-blue?style=for-the-badge)](https://chatchamp.vercel.app) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/amank736836/MERN-ChatApp_MainProject)
 
 ### 🐍 Nagini – Snake Game Web Application
-![React Badge](https://img.shields.io/badge/React-Game%20Dev-black?style=flat-square)
+![Next.js Badge](https://img.shields.io/badge/Next.js-Game%20Dev-black?style=flat-square&logo=next.js)
 
-- **Dynamic Gameplay**: Built with **React.js** using hooks and refs for smooth animations and interaction.
-- **Real-time Scoring**: Integrated APIs to fetch and display high scores instantly.
+- **Dynamic Gameplay**: Built with **Next.js + TypeScript** using hooks and refs for smooth animations and interaction.
+- **Real-time Scoring**: API routes backed by **MongoDB** store and fetch high scores instantly.
 - **Responsive Design**: Fully optimized for seamless gaming across all devices.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge)](https://amank736836.vercel.app/nagini) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/amank736836)
-*(Note: Please update links if different)*
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge)](https://snake-game-nextjs-kappa.vercel.app) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/amank736836/next-snake-game_Project)
 
 ### 🛒 Virtuo Store – E-commerce Platform
-![E-commerce Badge](https://img.shields.io/badge/MERN-E--Commerce-black?style=flat-square)
+![E-commerce Badge](https://img.shields.io/badge/Next.js-E--Commerce-black?style=flat-square&logo=next.js)
 
-- **Full-Stack Platform**: MongoDB, Express, React, Node.js with **Tailwind CSS**.
+- **Full-Stack Platform**: **Next.js + TypeScript** with **Tailwind CSS**, **MongoDB** and **Redis** caching.
 - **Secure Payments**: Integrated **Razorpay** and **Firebase Auth**.
 - **Admin Dashboard**: Comprehensive order management and shopping cart system.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-virtuostore.vercel.app-blue?style=for-the-badge)](https://virtuostore.vercel.app) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/amank736836/MERN-ECommerce)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-virtuostore.vercel.app-blue?style=for-the-badge)](https://virtuostore.vercel.app) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/amank736836/next-ecommerce_Project)
 
 ---
 
@@ -96,8 +95,7 @@ I'm a passionate software developer with hands-on experience in building scalabl
 
 <div align="center">
 
-[![Aman's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amank736836?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-<!-- [![Top Langs](https://github-readme-stats-amank736836.vercel.app/api/top-langs/?username=amank736836&layout=compact&theme=dark&count_private=true)](https://github.com/amank736836) -->
+[![Aman's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amank736836?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 [![GitHub Streak](https://streak-stats.demolab.com?user=amank736836&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 </div>
@@ -106,6 +104,7 @@ I'm a passionate software developer with hands-on experience in building scalabl
 
 ## 📬 Contact Me
 
+[![Portfolio: amank.co.in](https://img.shields.io/badge/Portfolio-amank.co.in-black?style=for-the-badge&logo=vercel&logoColor=white)](https://amank.co.in)
 [![Threads: @amank736836](https://img.shields.io/badge/Threads-%40amank736836-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@amank736836)
 [![Instagram: @amank736836](https://img.shields.io/badge/Instagram-%40amank736836-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amank736836)
 [![Facebook: Aman Kumar](https://img.shields.io/badge/Facebook-amank736836-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amank736836/)
