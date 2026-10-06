@@ -4,6 +4,13 @@
 💻 MERN Stack Specialist | AWS | Docker | Next.js  
 🚀 **Software Engineer @ Techpearl** | Ex-Intern @ Wabtec Corporation
 
+## 🌐 Portfolio Website
+
+This repository also includes a responsive, no-build portfolio site. The interface uses vanilla HTML, CSS, and JavaScript, with scroll reveals, an animated performance chart, hover details, and support for reduced-motion preferences.
+
+- **Source:** [`index.html`](index.html), [`styles.css`](styles.css), and [`script.js`](script.js)
+- **Preview locally:** run `python3 -m http.server 8000` from the repository root, then open `http://localhost:8000`.
+
 ---
 
 ## 🧑‍💻 About Me
